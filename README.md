@@ -33,9 +33,7 @@ To reach me contact: [omkar.pitale@globallogic.com](mailto:omkar.pitale@globallo
           
         
 ## 🔥 Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkar-pitale&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omkar-pitale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-pitale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 **CyberKnight1803/CyberKnight1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
